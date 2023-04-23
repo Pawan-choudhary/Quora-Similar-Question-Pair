@@ -3,3 +3,6 @@ sklearn
 fuzzywuzzy
 distance
 bs4
+nltk
+numpy
+helper
